@@ -12,8 +12,10 @@ KEY FEATURES:
 - See your expense categorization chart of specific month and year simply by changing details in calendar.
 - Display the saving that is done in the particular month with respect to the budget allocated.
 - Allow the user to set capital for the month & add more sum in cases applied.
+
   
 ![Screenshot 2024-11-17 232949](https://github.com/user-attachments/assets/29d23629-3e63-4876-8d0e-23986b0cca52)
+
 ![Screenshot 2024-11-17 232917](https://github.com/user-attachments/assets/02ef0381-c09e-4837-a470-1373198adf16)
 
 
